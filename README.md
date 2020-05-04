@@ -1,3 +1,1 @@
-# WebII
-auqi explico todo
-trabajos proyectos web
+Aqui estan mis proyectos Web
